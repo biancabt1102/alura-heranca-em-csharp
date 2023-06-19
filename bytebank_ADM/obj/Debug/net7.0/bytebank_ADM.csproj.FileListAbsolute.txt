@@ -1,0 +1,15 @@
+E:\Users\bianc\Documentos\FIAP-2023\Alura\.NET\bytebank_ADM\bytebank_ADM\bin\Debug\net7.0\bytebank_ADM.exe
+E:\Users\bianc\Documentos\FIAP-2023\Alura\.NET\bytebank_ADM\bytebank_ADM\bin\Debug\net7.0\bytebank_ADM.deps.json
+E:\Users\bianc\Documentos\FIAP-2023\Alura\.NET\bytebank_ADM\bytebank_ADM\bin\Debug\net7.0\bytebank_ADM.runtimeconfig.json
+E:\Users\bianc\Documentos\FIAP-2023\Alura\.NET\bytebank_ADM\bytebank_ADM\bin\Debug\net7.0\bytebank_ADM.dll
+E:\Users\bianc\Documentos\FIAP-2023\Alura\.NET\bytebank_ADM\bytebank_ADM\bin\Debug\net7.0\bytebank_ADM.pdb
+E:\Users\bianc\Documentos\FIAP-2023\Alura\.NET\bytebank_ADM\bytebank_ADM\obj\Debug\net7.0\bytebank_ADM.csproj.AssemblyReference.cache
+E:\Users\bianc\Documentos\FIAP-2023\Alura\.NET\bytebank_ADM\bytebank_ADM\obj\Debug\net7.0\bytebank_ADM.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\bianc\Documentos\FIAP-2023\Alura\.NET\bytebank_ADM\bytebank_ADM\obj\Debug\net7.0\bytebank_ADM.AssemblyInfoInputs.cache
+E:\Users\bianc\Documentos\FIAP-2023\Alura\.NET\bytebank_ADM\bytebank_ADM\obj\Debug\net7.0\bytebank_ADM.AssemblyInfo.cs
+E:\Users\bianc\Documentos\FIAP-2023\Alura\.NET\bytebank_ADM\bytebank_ADM\obj\Debug\net7.0\bytebank_ADM.csproj.CoreCompileInputs.cache
+E:\Users\bianc\Documentos\FIAP-2023\Alura\.NET\bytebank_ADM\bytebank_ADM\obj\Debug\net7.0\bytebank_ADM.dll
+E:\Users\bianc\Documentos\FIAP-2023\Alura\.NET\bytebank_ADM\bytebank_ADM\obj\Debug\net7.0\refint\bytebank_ADM.dll
+E:\Users\bianc\Documentos\FIAP-2023\Alura\.NET\bytebank_ADM\bytebank_ADM\obj\Debug\net7.0\bytebank_ADM.pdb
+E:\Users\bianc\Documentos\FIAP-2023\Alura\.NET\bytebank_ADM\bytebank_ADM\obj\Debug\net7.0\bytebank_ADM.genruntimeconfig.cache
+E:\Users\bianc\Documentos\FIAP-2023\Alura\.NET\bytebank_ADM\bytebank_ADM\obj\Debug\net7.0\ref\bytebank_ADM.dll
